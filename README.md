@@ -5,7 +5,7 @@
 Bikeshare
 
 ### Description
-This takes data from a bikeshare program from three cities, New York, Chicago, and Washington, and allows the user to filter the data by city, month, and/or day of the week and see usage statistics.
+This takes data from a bikeshare program in three cities, New York, Chicago, and Washington, and allows the user to filter the data by city, month, and/or day of the week. The program displays statistical data based on the filters.
 
 ### Files used
 washington.csv
