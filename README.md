@@ -13,4 +13,4 @@ new_york_city.csv
 chicago.csv
 
 ### Credits
-I used stackoverflow to answer some basic questions.
+I used stackoverflow.com to answer some basic questions.
