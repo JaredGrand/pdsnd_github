@@ -186,7 +186,7 @@ def raw_data(df):
     ans = input('Would you like to see individual trip data? Enter yes or no? ').lower()
     while ans not in ['yes', 'no']:
         ans = input("I'm sorry, I didn't catch that. Was it a yes or a no? ")
-
+    # Cycle through the index of the datafame and display 5 lines at a time
     i = 0
     while ans == 'yes':
         for num in df.index[i:i+5]:
