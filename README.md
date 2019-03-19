@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+03/14/2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This takes data from a bikeshare program in three cities, New York, Chicago, and Washington, and allows the user to filter the data by city, month, and/or day of the week. The program displays statistical data based on the filters.
 
 ### Files used
-Include the files used
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I used stackoverflow.com to answer some basic questions.
