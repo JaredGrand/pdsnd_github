@@ -205,7 +205,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
         raw_data(df)
-
+        # Gives the option to restart the program or quit
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
